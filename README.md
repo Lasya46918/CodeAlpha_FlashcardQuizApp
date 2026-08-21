@@ -25,4 +25,3 @@ The application helps users study using flashcards. Each flashcard contains a qu
 - JSON
 - Object-Oriented Programming
 
-## 📁 Project Structure
