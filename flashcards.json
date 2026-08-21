@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language."
+    },
+    {
+        "question": "What is SQL?",
+        "answer": "SQL is used to communicate with relational databases."
+    },
+    {
+        "question": "What is a variable?",
+        "answer": "A variable is used to store data in a program."
+    },
+    {
+        "question": "What is a database?",
+        "answer": "A database is an organized collection of data."
+    },
+    {
+        "question": "what is java?",
+        "answer": "Java is the high-level programming language"
+    }
+]
